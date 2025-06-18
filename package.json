@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Vercel serverless functions for GHN API proxy",
   "type": "module",
-  "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build"
-  },
   "dependencies": {
     "node-fetch": "^3.3.0"
   }
